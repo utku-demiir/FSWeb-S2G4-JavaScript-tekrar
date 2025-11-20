@@ -119,8 +119,8 @@ let ucetambolunenler,
 
 // 3f çözümü
 
-/* kodlar buraya */
-
+/* kodlar buraya ...*/
+/* fhdjfhdf */
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
 function sa() {
